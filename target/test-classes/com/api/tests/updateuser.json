@@ -1,0 +1,12 @@
+ {
+           
+            "first_name": "Ali",
+            "last_name": "Takatuka",
+            "gender": "female",
+            "dob": "1947-01-09",
+            "email": "alidir@example.org",
+            "phone": "(705) 894-9839 x011",
+            "website": "http://klein.biz/possimus-consectetur-laboriosam-fugiat",
+            "address": "276 Yost Light Suite 475\nPort Bonnie, LA 31043-2535",
+            "status": "active"
+}
